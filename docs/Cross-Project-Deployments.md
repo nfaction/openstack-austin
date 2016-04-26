@@ -23,4 +23,5 @@ Then possibly modify my code to deploy "Option: 2" of the Mitaka networking set 
 * Build+verify <https://wiki.openstack.org/wiki/Rally>
 * <http://docs.openstack.org/developer/tempest/>
 * Ansible BMD: <https://wiki.openstack.org/wiki/Ironic>
+* <https://github.com/openstack/bifrost>
 
