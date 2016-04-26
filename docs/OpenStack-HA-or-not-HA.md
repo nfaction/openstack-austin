@@ -81,4 +81,19 @@ He uses "Contrail" for neutron/logs?
 Duplicate Entire infrastructure to each rack, so that HA is truely duplicated.  Top to bottom configuration duplication using Availability zones for HA.
 
 ### Data Plane
-OpenContrail Architecture
+Uses OpenContrail Architecture under neutron hood
+
+* Bonded HA dual HAProxy with keepalive
+* Using RabbitMQ - HA Queues
+* Galera
+
+## Take Away
+* Try yourself
+* Focus on use cases
+* Be Brave and use latest releases
+* Many ways to do HA
+* Build own CI - CD
+* Find the way NOT to get stuck in your architechture
+* Be ready for changes
+* Have Fun!
+
