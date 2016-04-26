@@ -5,3 +5,7 @@
 ## Help
 
 <https://ask.openstack.org/en/questions/ask/>
+
+## Notes
+
+Drop into the `docs` directory to see a Markdown page per session I attended
