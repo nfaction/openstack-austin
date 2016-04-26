@@ -58,3 +58,8 @@ maxconn: 40000
 
 Example system on **slide 21**.  This shows what the connection count, workers and integer values can be for a multi-controller setup.
 
+## Troubleshooting Workflow
+
+See picture.  All steps are basically reactive due to discovered issue.  Consider scale of env, then work from there.
+
+![Guide](troubleshooting-guide.jpeg)
