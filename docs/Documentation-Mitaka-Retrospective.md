@@ -19,3 +19,8 @@ I realized at this point that HA guides are very out of date and not updated oft
 Will likely just have to hash out details for HA over Ask and Mailing list, or both
 
 New Ops guide should help
+
+## General docs
+Docs reside within each project, then all docs are aggregated into a single user guide that spans all projects.
+
+Might be helpful to read docs for each project, then consult user guides.
